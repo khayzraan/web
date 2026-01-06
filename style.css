@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+    color: darkgreen;
+}
+h1{
+    background-color: aliceblue;
+    color: cornflowerblue;
+    text-align: center;
+
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    cursor: pointer;
+}
+button:hover{
+    background-color: cadetblue;
+}
