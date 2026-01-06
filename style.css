@@ -1,10 +1,7 @@
-html{
-    background-color: black;
-    color: darkgreen;
-}
+
 h1{
     background-color: aliceblue;
-    color: cornflowerblue;
+    color: rgb(5, 28, 71);
     text-align: center;
 
 }
@@ -13,6 +10,12 @@ button{
     color: aliceblue;
     cursor: pointer;
 }
+input{
+    text-align: center;
+}
 button:hover{
-    background-color: cadetblue;
+    background-color: rgb(11, 0, 71);
+}
+body{
+    text-align: center;
 }
